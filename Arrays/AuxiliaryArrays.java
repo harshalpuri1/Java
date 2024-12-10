@@ -1,5 +1,5 @@
 // Helper Array
-public class AuxilaryArrays {
+public class AuxiliaryArrays {
     public static int TrappedWater(int height[]){
         int n=height.length;
         // leftMax Array
