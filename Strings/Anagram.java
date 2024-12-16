@@ -26,5 +26,6 @@ public class Anagram {
         }else{
             System.out.println("The given strings are not anagram of each other");
         }
+        sc.close();
     }
 }
