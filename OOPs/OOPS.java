@@ -20,7 +20,7 @@ class Pen{
 
 class Bank {
     public String username;
-    private String password;
+    public String password;
 
     void setuser(String name, String pass){
         username = name;
