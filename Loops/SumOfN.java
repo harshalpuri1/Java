@@ -1,4 +1,3 @@
-package Loops;
 // Print sum of N natural numbers
 
 import java.util.*;
